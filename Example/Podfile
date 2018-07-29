@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LAPodTest_Example' do
+  pod 'LAPodTest', :path => '../'
+
+  target 'LAPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
