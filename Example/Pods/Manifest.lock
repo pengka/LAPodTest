@@ -1,0 +1,16 @@
+PODS:
+  - LAPodTest (0.1.0)
+
+DEPENDENCIES:
+  - LAPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  LAPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LAPodTest: 2e72a6ee648971d275c96793156bdcedbf79d08d
+
+PODFILE CHECKSUM: 91fb3576ad9ab919dc65376be04c88948f6fdfb4
+
+COCOAPODS: 1.5.3

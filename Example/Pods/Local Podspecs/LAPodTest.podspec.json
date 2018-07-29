@@ -1,0 +1,22 @@
+{
+  "name": "LAPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of LAPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alexanson520@gmail.com/LAPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alexanson520@gmail.com": "383760136@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/alexanson520@gmail.com/LAPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LAPodTest/Classes/**/*"
+}

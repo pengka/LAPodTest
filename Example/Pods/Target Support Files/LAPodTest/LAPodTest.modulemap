@@ -1,0 +1,6 @@
+framework module LAPodTest {
+  umbrella header "LAPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
